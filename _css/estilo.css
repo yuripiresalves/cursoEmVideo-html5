@@ -207,6 +207,11 @@ table#tabelaspec caption span {
     margin-top: 10px;
 }
 
+video#esquerda {
+    width: 500px;
+    padding: 5px;
+}
+
 aside#lateral {
     display: block;
     width: 350px;
@@ -229,6 +234,10 @@ aside#lateral h2 {
     font-size: 13pt;
     color: #fff;
     padding: 5px;    
+}
+
+video#direita {
+    width: 350px;
 }
 
 footer#rodape {
